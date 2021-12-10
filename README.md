@@ -8,3 +8,5 @@ made dummy variale using get_dummies and OneHotEncoding for property price and 2
 
 exercise on insurance project of logistic regression
 Project employee retaintion solved by logistic regression has accuracy of 78%
+
+Decision tree model created for titanic dataset to predict surviaval rate, checked loss function like RMS, MSE, accuray_score and confusion matrix
